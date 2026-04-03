@@ -12,3 +12,5 @@ Width → more neurons per layer
 Resolution → larger input images
 
 This method is called compound scaling, and it ensures balanced growth of the model.
+Im sorry that I dont have that 62k images dataset for now but here is the ambulance dataset link have a binary classified dataset
+https://www.kaggle.com/datasets/mahmoudshaheen1134/ambulance-dataset
